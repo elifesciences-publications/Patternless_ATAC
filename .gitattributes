@@ -1,0 +1,2 @@
+*.GR filter=lfs diff=lfs merge=lfs -text
+*list.R filter=lfs diff=lfs merge=lfs -text
